@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    text-align: center;
+}
+
+.hr{
+    width: 160px;
+    margin: auto;
+    border: 1px solid black;
+}
+
+#cal{
+    margin: 15px auto;
+    max-width: 400px;
+    height: 464px;
+    box-shadow: 0px 6px 9px 4px rgba(0, 0, 0, 0.2);
+    font-size: 0px;
+}
+
+#cal:hover{
+    box-shadow: 0px 12px 15px 7px rgba(0, 0, 0, 0.3);
+
+}
+
+#cal #inp-box{
+    width: 385px;
+    height: 100px;
+    font-size: 40px;
+    text-align: right;
+    padding: 5px;
+    letter-spacing: 3px;
+    border: 2px solid blue;
+    margin-bottom: 1px;
+}
+
+.btn-div{
+    text-align: center;
+}
+
+.btn{
+    width: 100px;
+    height: 70px;
+    color: white;
+    background: #1F2227;
+}
+
+.spe{
+    background: #4a52b7c7;
+}
+
+.eql{
+    background: #da8d01e0;
+}
+
+.btn:hover{
+    background: #CDDC39;
+}
